@@ -1,5 +1,7 @@
 ![StarGazers](images/logo_stargazers_bug.svg)
 
+<img scr="images/logo_stargazers_bug.svg" alt="stargazers Logo" styles="width:300px">
+
 #StarGazers 
 
 Welcome to the publishing-wiki wiki!
