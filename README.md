@@ -1,6 +1,5 @@
 
-
-<img scr="images/logo_stargazers_bug.svg" alt="stargazers Logo" style="width:300px;">
+<img src="images/logo_stargazers_bug.svg" alt="stargazers Logo" style="width:300px;">
 
 #StarGazers 
 
