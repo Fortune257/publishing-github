@@ -1,6 +1,6 @@
-![StarGazers](images/logo_stargazers_bug.svg)
 
-<img scr="images/logo_stargazers_bug.svg" alt="stargazers Logo" styles="width:300px">
+
+<img scr="images/logo_stargazers_bug.svg" alt="stargazers Logo" style="width:300px;">
 
 #StarGazers 
 
